@@ -14,13 +14,14 @@
 ##
 
 <div class="skills" style="display: inline_block"><br>
-  <img height="32" src="https://img.icons8.com/material-outlined/24/F1C40F/django.png"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="32" src="https://img.icons8.com/ios-filled/50/F1C40F/unity.png"/>
-  <img height="32" src="https://img.icons8.com/sf-ultralight-filled/50/F1C40F/dashed-cloud.png"/>
-  <img height="32" src="https://img.icons8.com/sf-ultralight-filled/50/F1C40F/dashed-cloud.png"/>
-  <img height="32" src="https://img.icons8.com/sf-ultralight-filled/50/F1C40F/dashed-cloud.png"/>
+  <img height="32" src="https://img.icons8.com/material-outlined/50/FCC419/django.png"/>
+  <img height="32" src="https://img.icons8.com/ios-glyphs/50/FCC419/python.png" />
+  <img height="32" src="https://img.icons8.com/color/50/FCC419/javascript--v1.png" />
+  <img height="32" src="https://img.icons8.com/ios-filled/50/FCC419/typescript.png"/>
+  <img height="32" src="https://img.icons8.com/ios-filled/50/FCC419/unity.png"/>
+  <img height="32" src="https://img.icons8.com/material-sharp/50/FCC419/flutter.png"/>
+  <img height="32" src="https://img.icons8.com/ios-filled/50/FCC419/git.png"/>
+  
 </div>
 
 ##
@@ -35,7 +36,7 @@
 </div>
 
 ![output-onlinegiftools](https://user-images.githubusercontent.com/74150316/194730063-61288ebb-a085-4bbb-a48a-bf2b580684a1.gif)
-
+>_Stay determined_
 <!--
 **ronaldo26rodrigues/ronaldo26rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
