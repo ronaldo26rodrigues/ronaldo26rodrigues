@@ -21,6 +21,9 @@
   <img height="32" src="https://img.icons8.com/ios-filled/50/FCC419/unity.png"/>
   <img height="32" src="https://img.icons8.com/material-sharp/50/FCC419/flutter.png"/>
   <img height="32" src="https://img.icons8.com/ios-filled/50/FCC419/git.png"/>
+  <img height="32" src="https://img.icons8.com/ios-filled/50/FCC419/mysql.png" alt="mysql"/>
+  <img height="32" src="https://img.icons8.com/ios/50/FCC419/oracle-logo.png" alt="oracle"/>
+            
   
 </div>
 
